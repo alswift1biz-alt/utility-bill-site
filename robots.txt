@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alswift1biz-alt.github.io/utility-bill-site/sitemap.xml
